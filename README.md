@@ -1,4 +1,4 @@
-# belgeler
+# belgeler-devel dalı
 
 Wordpress sitemizde yer alan makaleler içindir
 
