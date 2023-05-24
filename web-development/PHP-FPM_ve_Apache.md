@@ -1,5 +1,3 @@
-<!-- Bu makale Bedreddin Şahbaz tarafından yazılmıştır. BSD-3-Clause ile ruhsatlanmıştır. -->
-
 # FreeBSD 13 Üzerinde PHP-FPM ve Apache Yapılandırması
 
 Bu dökümanda FreeBSD 13 sistemimiz üzerinde kurulu Apache sunucumuzu php-fpm kullanarak PHP çalıştırır hale getireceğiz. Malum bu işi yapmanın diğer yolu; Apache’yi PHP modülü ile kullanmak. Bu dökümanda daha performanslı çalıştığı söylenen php-fpm ile Apache ve PHP’yi birbiri ile bağlayacağız.
@@ -86,3 +84,7 @@ Yaptığımız konfigürasyonu test edebiliriz. Web sunucumuzda bir php dosyası
 ![PHP Info](img/phpinfo.png "PHP Info").
 
 Server API satırında FPM/FastCGI görüyorsanız tebrikler, sunucunuzda Apache+PHP-FPM yapılandırmasını doğru şekilde yapmışsınız.
+
+# Lisans
+
+Bu makale Bedreddin Şahbaz tarafından yazılmıştır. BSD-3-Clause ile ruhsatlanmıştır.
