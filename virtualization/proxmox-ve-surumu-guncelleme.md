@@ -1,4 +1,4 @@
-![Proxmox VE](proxmoxve.jpg)
+![Proxmox VE](img/proxmoxve.jpg)
 
 Proxmox VE ile ilgili deneyimlediğim bir işlemi daha buraya yazmak istedim. Proxmox VE sürümü ben kurulum yaptığımda 7.1 idi ve sonrasında 7.2 sürümü kullanıma sunuldu. 7.2 sürümü ile gelen değişimlere şu adrese göz atarak bakabilirsiniz ([Proxmox Virtual Environment 7.2 released](https://www.proxmox.com/en/news/press-releases/proxmox-virtual-environment-7-2-available)) Ben de 7.1 olan sürümümü güncelleyerek 7.2 yapmak istedim ve bu konuda biraz araştırma yaptım. Proxmox VE yazılımını ücretsiz olarak kullanıyorsanız bu güncellemeyi yapabilmek için bazı işlemler yapmanız gerekmekte. Proxmox VE depoları ile ilgili detaylı bilgi için [https://pve.proxmox.com/wiki/Package_Repositories](https://pve.proxmox.com/wiki/Package_Repositories) adresini ziyaret edebilirsiniz.
 
