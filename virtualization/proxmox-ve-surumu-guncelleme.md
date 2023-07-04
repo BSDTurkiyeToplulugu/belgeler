@@ -30,3 +30,7 @@ Bu komutların sonunda sistem güncellenmiş olacak. Güncelleme bittikten sonra
 ```
 
 Sunucunuz yeniden başladığında Proxmox VE sürüm bilgisini kontrol edin. İyi çalışmalar..
+
+# Lisans
+
+Bu makale Bedreddin Şahbaz tarafından yazılmıştır. BSD-3-Clause ile ruhsatlanmıştır.
