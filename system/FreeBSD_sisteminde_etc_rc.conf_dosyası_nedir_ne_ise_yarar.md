@@ -6,9 +6,9 @@ Bu yazıda FreeBSD sistemlerde çok önemli bir işleve sahip olan ```/etc/rc.co
 
 Çok basit bir anlatımla; FreeBSD işletim sisteminde ```/etc/rc.conf``` dosyası, sistem yapılandırmasını kontrol etmek için kullanılan önemli bir dosyadır. Bu dosya, sistem başlatıldığında veya durdurulduğunda çalıştırılacak veya durdurulacak hizmetlerin ve sistem ayarlarının yapılandırılmasını sağlar.
 
-rc.conf'nin amacı, doğrudan komutları çalıştırmak veya sistem başlangıç eylemlerini gerçekleştirmek değildir. Bunun yerine, /etc dizinindeki çeşitli genel başlangıç betikleri tarafından dahil edilir ve içerideki ayarlara göre bazı eylemleri gerçekleştirir. /etc/rc.conf dosyası, tüm mevcut seçenekler için varsayılan ayarları belirleyen /etc/defaults/rc.conf dosyasından dahil edilir. Sistem yöneticisi bu varsayılanları geçersiz kılmak istediğinde, seçenekler yalnızca /etc/rc.conf dosyasında belirtilmelidir, **```/etc/defaults/rc.conf``` dosyasında bir düzenleme yapılmamalıdır.**
+```rc.conf```'nin amacı, doğrudan komutları çalıştırmak veya sistem başlangıç eylemlerini gerçekleştirmek değildir. Bunun yerine, ```/etc``` dizinindeki çeşitli genel başlangıç betikleri tarafından dahil edilir ve içerideki ayarlara göre bazı eylemleri gerçekleştirir. ```/etc/rc.conf``` dosyası, tüm mevcut seçenekler için varsayılan ayarları belirleyen ```/etc/defaults/rc.conf``` dosyasından dahil edilir. Sistem yöneticisi bu varsayılanları geçersiz kılmak istediğinde, seçenekler yalnızca ```/etc/rc.conf``` dosyasında belirtilmelidir, **```/etc/defaults/rc.conf``` dosyasında bir düzenleme yapılmamalıdır.**
 
-Aşağıda örnek bir rc.conf dosyası bulunuyor;
+Aşağıda örnek bir ```rc.conf``` dosyası bulunuyor;
 
 ![rc.conf](img/ray-so-export-1-1024x646.png)
 
