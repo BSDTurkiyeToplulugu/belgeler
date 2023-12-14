@@ -1,5 +1,7 @@
 # FreeBSD Sisteminde /etc/rc.conf dosyası nedir ne işe yarar ?
 
+![FreeBSD](img/freebsd-logo.png)
+
 Bu yazıda FreeBSD sistemlerde çok önemli bir işleve sahip olan ```/etc/rc.conf``` dosyası ile ilgili bilgilere yer vermek istiyorum.
 
 Çok basit bir anlatımla; FreeBSD işletim sisteminde ```/etc/rc.conf``` dosyası, sistem yapılandırmasını kontrol etmek için kullanılan önemli bir dosyadır. Bu dosya, sistem başlatıldığında veya durdurulduğunda çalıştırılacak veya durdurulacak hizmetlerin ve sistem ayarlarının yapılandırılmasını sağlar.
