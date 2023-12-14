@@ -10,7 +10,7 @@ Bugün sizlere sanallaştırma ortamında kurduğumuz FreeBSD sistemimizin HDD b
 
 Öncelikle kullandığımız sanallaştırma aracında sanal makinemiz için tanımladığımız disk alanını büyütmekle işe başlıyoruz. Bu işlem sanallaştırma ortamınıza göre farklılık gösterebileceği için detaya girmiyorum. Ben işlemi Proxmox VE üzerinde yaptım. Bu işlemi kolayca sanal makinenin içerisine girip Donanım seçeneğine giderek Disk Boyutlandır seçeneği ile yaptım ve sanal makineme 4 GB ek disk alanı eklenmesini sağladım.
 
-## **Adim 2:**
+## **Adım 2:**
 
 Sanal makinemizde konsole gidip şu komutu çalıştırıyoruz;
 
