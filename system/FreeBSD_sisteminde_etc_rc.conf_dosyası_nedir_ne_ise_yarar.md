@@ -8,7 +8,7 @@ rc.conf'nin amacı, doğrudan komutları çalıştırmak veya sistem başlangı�
 
 Aşağıda örnek bir rc.conf dosyası bulunuyor;
 
-![rc.conf](ray-so-export-1-1024x646.png)
+![rc.conf](img/ray-so-export-1-1024x646.png)
 
 Görüldüğü gibi makine host adı, ağ arabirimi yapılandırması, ağ geçidi, sistem başlarken başlaması istenen bazı servisler bu dosyada belirtilmiş halde.
 
