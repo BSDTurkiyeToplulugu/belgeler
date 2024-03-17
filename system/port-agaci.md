@@ -29,3 +29,7 @@ FreeBSD işletim sistemini ilginç kılan özelliklerinden birisi bildiğiniz gi
 **make check:** Portun testlerini çalıştırır
 
 Faydalı olması ümidi ile..
+
+# Lisans
+
+Bu makale Bedreddin Şahbaz tarafından yazılmıştır. BSD-3-Clause ile ruhsatlanmıştır.
