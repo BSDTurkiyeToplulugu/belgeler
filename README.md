@@ -1,6 +1,6 @@
 # belgeler-devel dalı
 
-Wordpress sitemizde yer alan makaleler içindir.
+Wordpress sitemizde yer alan makaleler ve tüm içerikler(resim ve benzeri) içindir.
 
 # Lisans
 
